@@ -1,0 +1,14 @@
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\bin\Debug\PeePee1.exe.config
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\bin\Debug\PeePee1.exe
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\bin\Debug\PeePee1.pdb
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1.csprojAssemblyReference.cache
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\MainWindow.g.cs
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\App.g.cs
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1_MarkupCompile.cache
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1_MarkupCompile.lref
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\MainWindow.baml
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1.g.resources
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1.Properties.Resources.resources
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1.csproj.GenerateResource.cache
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1.exe
+C:\Users\wajda_terry\Desktop\PeePee1\PeePee1\obj\Debug\PeePee1.pdb
